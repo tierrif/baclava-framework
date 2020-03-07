@@ -7,7 +7,7 @@ Simple JDA command client for any JDA bot using JDA-Reactor.
 [JDA-Reactor](https://github.com/MinnDevelopment/jda-reactor) - Reactor tools for asynchronous event handling for JDA.  
 [SLF4J-Simple](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple/1.6.1) - Thread-safe logger for Java.
     
-###If using gradle, do the following:
+### If using gradle, do the following:
   
 Create a directory at the root of your project named `lib` and add BaclavaFramework's jar in it. You can find this in the repository's releases section.  
 **Your repositories and dependencies in your build.gradle should look like this:**
